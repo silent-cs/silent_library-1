@@ -1,2 +1,0 @@
-1- copy " libsilent.a " paste in folder " C:\msys64\ucrt64\lib " 
-2 - copy " ghizlane " paste in folder " C:\msys64\ucrt64\include " 
