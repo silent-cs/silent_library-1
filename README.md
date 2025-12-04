@@ -9,8 +9,8 @@ A small library and it my first library for C/C++
 
 - **C/C++**
 ---
-![My Image](images/#1.png)
-![My Image](images/#2.png)
+![My Image](1.png)
+![My Image](S2.png)
 ##  Author
 
 Developed by **S1LENT**
